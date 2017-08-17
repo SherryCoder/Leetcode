@@ -74,6 +74,42 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="31.cpp" />
+    <ClCompile Include="32.cpp" />
+    <ClCompile Include="34.cpp" />
+    <ClCompile Include="36.cpp" />
+    <ClCompile Include="37.cpp" />
+    <ClCompile Include="38.cpp" />
+    <ClCompile Include="39.cpp" />
+    <ClCompile Include="40.cpp" />
+    <ClCompile Include="41.cpp" />
+    <ClCompile Include="42.cpp" />
+    <ClCompile Include="43.cpp" />
+    <ClCompile Include="44.cpp" />
+    <ClCompile Include="45.cpp" />
+    <ClCompile Include="46.cpp" />
+    <ClCompile Include="47.cpp" />
+    <ClCompile Include="48.cpp" />
+    <ClCompile Include="49.cpp" />
+    <ClCompile Include="50.cpp" />
+    <ClCompile Include="51.cpp" />
+    <ClCompile Include="52.cpp" />
+    <ClCompile Include="54.cpp" />
+    <ClCompile Include="55.cpp" />
+    <ClCompile Include="56.cpp" />
+    <ClCompile Include="57.cpp" />
+    <ClCompile Include="58.cpp" />
+    <ClCompile Include="59.cpp" />
+    <ClCompile Include="60.cpp" />
+    <ClCompile Include="61.cpp" />
+    <ClCompile Include="65.cpp" />
+    <ClCompile Include="66.cpp" />
+    <ClCompile Include="67.cpp" />
+    <ClCompile Include="68.cpp" />
+    <ClCompile Include="69.cpp" />
+    <ClCompile Include="70.cpp" />
+    <ClCompile Include="72.cpp" />
+    <ClCompile Include="73.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

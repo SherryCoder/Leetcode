@@ -14,4 +14,114 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="31.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="34.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="36.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="37.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="38.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="39.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="40.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="42.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="43.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="44.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="45.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="46.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="47.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="48.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="49.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="50.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="51.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="52.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="54.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="55.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="56.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="57.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="58.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="59.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="60.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="61.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="65.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="66.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="67.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="68.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="69.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="70.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="72.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="73.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
