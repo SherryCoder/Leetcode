@@ -41,11 +41,11 @@ int minDistance(string word1, string word2) {
 	}
 	return board[len1][len2];
 }
-
-int main(){
-	string word1 = "tet";
-	string word2 = "eest";
-	int result = minDistance(word1,word2);
-	cout<<result<<endl;
-	return 0;
-}
+//
+//int main(){
+//	string word1 = "tet";
+//	string word2 = "eest";
+//	int result = minDistance(word1,word2);
+//	cout<<result<<endl;
+//	return 0;
+//}
