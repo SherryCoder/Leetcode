@@ -1,63 +1,23 @@
-﻿Build started 8/18/2017 9:58:06 AM.
+﻿Build started 8/21/2017 9:51:26 AM.
      1>Project "F:\sgy_vs\LeetCode\LeetCodeProgram\LeetCodeProgram.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
-         Creating "Debug\LeetCodeProgram.unsuccessfulbuild" because "AlwaysCreate" was specified.
+         Touching "Debug\LeetCodeProgram.unsuccessfulbuild".
        ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 74.cpp
-         74.cpp
-     1>f:\sgy_vs\leetcode\leetcodeprogram\74.cpp(57): warning C4715: 'searchMatrix' : not all control paths return a value
-       ManifestResourceCompile:
          All outputs are up-to-date.
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\sgy_vs\LeetCode\LeetCodeProgram\Debug\LeetCodeProgram.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\LeetCodeProgram.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\sgy_vs\LeetCode\LeetCodeProgram\Debug\LeetCodeProgram.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\sgy_vs\LeetCode\LeetCodeProgram\Debug\LeetCodeProgram.lib" /MACHINE:X86 Debug\LeetCodeProgram.exe.embed.manifest.res
-         Debug\31.obj
-         Debug\32.obj
-         Debug\34.obj
-         Debug\36.obj
-         Debug\37.obj
-         Debug\38.obj
-         Debug\39.obj
-         Debug\40.obj
-         Debug\41.obj
-         Debug\42.obj
-         Debug\43.obj
-         Debug\44.obj
-         Debug\45.obj
-         Debug\46.obj
-         Debug\47.obj
-         Debug\48.obj
-         Debug\49.obj
-         Debug\50.obj
-         Debug\51.obj
-         Debug\52.obj
-         Debug\54.obj
-         Debug\55.obj
-         Debug\56.obj
-         Debug\57.obj
-         Debug\58.obj
-         Debug\59.obj
-         Debug\60.obj
-         Debug\61.obj
-         Debug\65.obj
-         Debug\66.obj
-         Debug\67.obj
-         Debug\68.obj
-         Debug\69.obj
-         Debug\70.obj
-         Debug\72.obj
-         Debug\73.obj
-         Debug\74.obj
-       Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\LeetCodeProgram.exe.embed.manifest" /manifest Debug\LeetCodeProgram.exe.intermediate.manifest
-         All outputs are up-to-date.
-       LinkEmbedManifest:
-         All outputs are up-to-date.
-         LeetCodeProgram.vcxproj -> F:\sgy_vs\LeetCode\LeetCodeProgram\Debug\LeetCodeProgram.exe
-       FinalizeBuildStatus:
-         Deleting file "Debug\LeetCodeProgram.unsuccessfulbuild".
-         Touching "Debug\LeetCodeProgram.lastbuildstate".
-     1>Done Building Project "F:\sgy_vs\LeetCode\LeetCodeProgram\LeetCodeProgram.vcxproj" (build target(s)).
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt 76.cpp
+         76.cpp
+     1>c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.core.dll : warning C4945: 'ExtensionAttribute' : cannot import symbol from 'c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.0\system.core.dll': as 'System::Runtime::CompilerServices::ExtensionAttribute' has already been imported from another assembly 'mscorlib'
+                 c:\windows\microsoft.net\framework\v4.0.30319\mscorlib.dll : see declaration of 'System::Runtime::CompilerServices::ExtensionAttribute'
+                 first seen type is used; re-order imported assemblies to use the current type
+                 This diagnostic occurred while importing type 'System.Runtime.CompilerServices.ExtensionAttribute' from assembly 'System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'.
+     1>76.cpp(17): error C2143: syntax error : missing ';' before ':'
+     1>76.cpp(17): error C2143: syntax error : missing ';' before ':'
+     1>76.cpp(17): error C2143: syntax error : missing ')' before ':'
+     1>76.cpp(17): error C2143: syntax error : missing ';' before ':'
+     1>76.cpp(17): error C2059: syntax error : ')'
+     1>76.cpp(17): error C2143: syntax error : missing ';' before '{'
+     1>Done Building Project "F:\sgy_vs\LeetCode\LeetCodeProgram\LeetCodeProgram.vcxproj" (build target(s)) -- FAILED.
 
-Build succeeded.
+Build FAILED.
 
-Time Elapsed 00:00:02.60
+Time Elapsed 00:00:00.41

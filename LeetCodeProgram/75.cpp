@@ -34,21 +34,21 @@ void sortColors(vector<int>& nums) {
 //void swap(int ,int i)
 
 //只需扫描一次，常数空间的方法
-void setColors(vector<int>& nums){
-	int len = nums.size();
-	int redEnd = -1;
-	int blueBegin = len;
-	int i = 0;
-	while(i < blueBegin){
-		if(nums[i] == 0 && i!=redEnd){
-			redEnd++;
-			swap(redEnd,i);
-		}
-		else if(nums[i] == 2 && i!=blueBegin){
-			blueBegin--;
-			swap(blueBegin,i);
-		}else{
-			i++;
-		}
-	}
-}
+//void setColors(vector<int>& nums){
+//	int len = nums.size();
+//	int redEnd = -1;
+//	int blueBegin = len;
+//	int i = 0;
+//	while(i < blueBegin){
+//		if(nums[i] == 0 && i!=redEnd){
+//			redEnd++;
+//			swap(redEnd,i);
+//		}
+//		else if(nums[i] == 2 && i!=blueBegin){
+//			blueBegin--;
+//			swap(blueBegin,i);
+//		}else{
+//			i++;
+//		}
+//	}
+//}
