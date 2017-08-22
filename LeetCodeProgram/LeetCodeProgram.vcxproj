@@ -114,6 +114,8 @@
     <ClCompile Include="74.cpp" />
     <ClCompile Include="75.cpp" />
     <ClCompile Include="76.cpp" />
+    <ClCompile Include="77.cpp" />
+    <ClCompile Include="78.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
