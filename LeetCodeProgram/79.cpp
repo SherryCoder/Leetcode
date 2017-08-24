@@ -50,18 +50,18 @@ bool exist(vector<vector<char>>& board, string word) {
 	return false;
 }
 
-int main(){
-	char b[][4]= {{'A','B','C','E'},{'S','F','C','S'},{'A','D','E','E'}};
-	vector<vector<char>> board(3,vector<char>(4));
-	for(int i = 0;i < 3;i++){
-		for(int j = 0;j < 4;j++){
-			board[i][j] = b[i][j];
-			//cout<<board[i][j]<<" ";
-		}
-		//cout<<endl;
-	}
-	string word = "ABCCED";
-	bool result = exist(board,word);
-	cout<<result<<endl;
-	return 0;
-}
+//int main(){
+//	char b[][4]= {{'A','B','C','E'},{'S','F','C','S'},{'A','D','E','E'}};
+//	vector<vector<char>> board(3,vector<char>(4));
+//	for(int i = 0;i < 3;i++){
+//		for(int j = 0;j < 4;j++){
+//			board[i][j] = b[i][j];
+//			//cout<<board[i][j]<<" ";
+//		}
+//		//cout<<endl;
+//	}
+//	string word = "ABCCED";
+//	bool result = exist(board,word);
+//	cout<<result<<endl;
+//	return 0;
+//}
