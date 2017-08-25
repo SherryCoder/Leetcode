@@ -1,10 +1,10 @@
-﻿Build started 8/24/2017 11:18:29 AM.
+﻿Build started 8/25/2017 11:08:29 AM.
      1>Project "F:\sgy_vs\LeetCode\LeetCodeProgram\LeetCodeProgram.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\LeetCodeProgram.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 81.cpp
-         81.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 82.cpp
+         82.cpp
        ManifestResourceCompile:
          All outputs are up-to-date.
        Link:
@@ -53,6 +53,8 @@
          Debug\79.obj
          Debug\80.obj
          Debug\81.obj
+         Debug\82.obj
+         Debug\83.obj
        Manifest:
          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\LeetCodeProgram.exe.embed.manifest" /manifest Debug\LeetCodeProgram.exe.intermediate.manifest
          All outputs are up-to-date.
@@ -66,4 +68,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.58
+Time Elapsed 00:00:00.57
