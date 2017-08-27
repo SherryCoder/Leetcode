@@ -101,20 +101,22 @@ ListNode* deleteDuplicates(ListNode* head) {
 ////	}
 ////}
 //
-int main(){
-	int test[] = {1,1,2,2,2,3,3,4};  //10
-	ListNode*head = new ListNode(-1);
-	ListNode*p = head;
-	for(int i = 0;i < sizeof(test)/sizeof(int);i++){
-		ListNode*tmp = new ListNode(test[i]);
-		p->next = tmp;
-		p = p->next;
-	}
-	ListNode*result = deleteDuplicates(head->next);
-	while(result){
-		cout<<result->val<<" ";
-		result = result->next;
-	}
-	return 0;
-}
+//int main(){
+//	int test[] = {1,1,2,2,2,3,3,4};  //10
+//	ListNode*head = new ListNode(-1);
+//	ListNode*p = head;
+//	for(int i = 0;i < sizeof(test)/sizeof(int);i++){
+//		ListNode*tmp = new ListNode(test[i]);
+//		p->next = tmp;
+//		p = p->next;
+//	}
+//	ListNode*result = deleteDuplicates(head->next);
+//	while(result){
+//		cout<<result->val<<" ";
+//		result = result->next;
+//	}
+//	return 0;
+//}
+
+
 

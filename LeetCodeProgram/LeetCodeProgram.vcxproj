@@ -121,6 +121,8 @@
     <ClCompile Include="81.cpp" />
     <ClCompile Include="82.cpp" />
     <ClCompile Include="83.cpp" />
+    <ClCompile Include="84.cpp" />
+    <ClCompile Include="85.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
