@@ -123,6 +123,7 @@
     <ClCompile Include="83.cpp" />
     <ClCompile Include="84.cpp" />
     <ClCompile Include="85.cpp" />
+    <ClCompile Include="86.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

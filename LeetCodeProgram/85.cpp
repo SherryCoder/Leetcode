@@ -39,3 +39,9 @@ int maximalRectangle(vector<vector<char>>& matrix){
 	}
 	return maxArea;
 }
+
+//int main(){
+//	int a = 5/2;
+//	cout<<a<<endl;
+//	return 0;
+//}
