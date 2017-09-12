@@ -124,6 +124,10 @@
     <ClCompile Include="84.cpp" />
     <ClCompile Include="85.cpp" />
     <ClCompile Include="86.cpp" />
+    <ClCompile Include="87ScrambleString.cpp" />
+    <ClCompile Include="88MergeSortedArray.cpp" />
+    <ClCompile Include="89GrayCode.cpp" />
+    <ClCompile Include="90SubsetsII.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

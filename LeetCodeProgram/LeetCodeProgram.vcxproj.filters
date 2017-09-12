@@ -162,5 +162,17 @@
     <ClCompile Include="86.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="87ScrambleString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="88MergeSortedArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="89GrayCode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="90SubsetsII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
