@@ -174,5 +174,17 @@
     <ClCompile Include="90SubsetsII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="91DecodeWays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="92ReverseLinkedListII.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="673AverageofLevelBinaryTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

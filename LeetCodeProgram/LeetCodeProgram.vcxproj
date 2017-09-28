@@ -106,6 +106,7 @@
     <ClCompile Include="65.cpp" />
     <ClCompile Include="66.cpp" />
     <ClCompile Include="67.cpp" />
+    <ClCompile Include="673AverageofLevelBinaryTree.cpp" />
     <ClCompile Include="68.cpp" />
     <ClCompile Include="69.cpp" />
     <ClCompile Include="70.cpp" />
@@ -128,6 +129,9 @@
     <ClCompile Include="88MergeSortedArray.cpp" />
     <ClCompile Include="89GrayCode.cpp" />
     <ClCompile Include="90SubsetsII.cpp" />
+    <ClCompile Include="91DecodeWays.cpp" />
+    <ClCompile Include="92ReverseLinkedListII.cpp" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
